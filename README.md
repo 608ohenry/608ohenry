@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @608ohenry
 - 👀 I’m interested in data science and economics, studying at UW-Madison
-- 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate on apex legends add me on steam @uswizardgamer77
+- 🌱 I’m currently learning css and js
 - 📫 How to reach me: owenh.enren@gmail.com
 
 <!---
