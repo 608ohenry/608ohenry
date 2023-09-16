@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @608ohenry
-- 🌱 I’m currently studying Agricultural Economics, Business, Data Science, and Computer Science
-- 📫 How to reach me: owenh.enren@gmail.com
+- 🌱 I’m currently majoring in Data Science & Economics with a certificate in Computer Science
